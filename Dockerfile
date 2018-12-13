@@ -2,7 +2,7 @@
 # end-to-end tests inside a docker container on our jenkins instance.
 #
 # The docker image will contain the following components:
-#   1. Node 8
+#   1. Node 10
 #   2. Java Runtime Environment 8
 #   3. Google Chrome
 #   4. Seleniums Driver for Google Chrome
@@ -11,7 +11,7 @@
 
 # Define NodeJS docker image.
 # Here we use alpine as distribution
-ARG NODE_IMAGE_VERSION=8-stretch
+ARG NODE_IMAGE_VERSION=10-stretch
 
 
 # Create base image
