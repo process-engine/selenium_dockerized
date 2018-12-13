@@ -15,7 +15,7 @@ The following components are included:
 3. Google Chrome
 4. Seleniums Driver for Google Chrome
 
-## Relevant URLs (*)
+## Relevant URLs
 
 Get images from the [Docker Hub](https://hub.docker.com/r/5minds/selenium_dockerized/)
 
