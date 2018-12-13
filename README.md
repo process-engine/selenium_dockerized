@@ -10,20 +10,20 @@ This repository provides an docker image that is ready to go, no configuration r
 
 The following components are included:
 
-- Node 8
-- Java Runtime Environment 8
-- Google Chrome
-- Seleniums Driver for Google Chrome
+1. Node 10
+2. Java Runtime Environment 8
+3. Google Chrome
+4. Seleniums Driver for Google Chrome
 
 ## Relevant URLs (*)
 
-- Get images from the [Docker Hub](https://hub.docker.com/r/5minds/selenium_dockerized/)
+Get images from the [Docker Hub](https://hub.docker.com/r/5minds/selenium_dockerized/)
 
 ## How Do I Set This Project Up?
 
 ### Prerequesites
 
-- Docker
+1. Docker
 
 ### Setup/Installation
 
