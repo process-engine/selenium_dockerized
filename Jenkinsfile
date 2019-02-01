@@ -74,7 +74,7 @@ def create_dockerfile_build_step(node_version) {
   }
 }
 
-node {
+node('docker') {
   checkout scm;
 
   def dockerfile_builds = [:];
